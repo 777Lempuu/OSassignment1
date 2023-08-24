@@ -32,6 +32,6 @@ Now for the loader.c
             int result = entrypoint(0);
             printf("User _start return value = %d\n", result);"
 in code of loader.c error checks have been implemented 
-GITHUB:"https://github.com/777Lempuu/OSA-1-/tree/main/OSA1"
+
 
 
